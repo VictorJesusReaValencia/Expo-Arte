@@ -1,0 +1,24 @@
+@import '../node_modules/@photo-sphere-viewer/core/index.css';
+@import '../node_modules/@photo-sphere-viewer/virtual-tour-plugin/index.css';
+@import '../node_modules/@photo-sphere-viewer/gallery-plugin/index.css';
+@import '../node_modules/@photo-sphere-viewer/markers-plugin/index.css';
+
+html, body, #viewer {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+#carouselExampleFade {
+  width: 800px;
+  height: 400px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
