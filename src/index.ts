@@ -3,20 +3,20 @@ import { Viewer } from '@photo-sphere-viewer/core';
 import { VirtualTourPlugin } from '@photo-sphere-viewer/virtual-tour-plugin';
 import { MarkersPlugin } from '@photo-sphere-viewer/markers-plugin';
 
-import entradaImage from './images/entrada.jpg';
-import pasilloImage from './images/pasillo.jpg';
-import salaImage from './images/sala.jpg';
+const entradaImage = 'https://i.imgur.com/2o8A3Vv.jpeg';
+const pasilloImage = 'https://i.imgur.com/o74TMI8.jpeg';
+const salaImage = 'https://i.imgur.com/ZFOEptt.jpeg';
 import loaderGif from './images/loader.gif';
-import img1 from './images/1.png';
-import img2 from './images/2.jpg';
-import img3 from './images/3.jpg';
-import img4 from './images/4.jpg';
-import img5 from './images/5.png';
-import img6 from './images/6.png';
-import img7 from './images/7.jpeg';
-import img8 from './images/8.jpg';
-import img9 from './images/9.png';
-import img10 from './images/10.png';
+const img1 = 'https://i.imgur.com/yUgIwUX.png';
+const img2 = 'https://i.imgur.com/dMNCdvQ.jpeg';
+const img3 = 'https://i.imgur.com/lbTqP18.jpeg';
+const img4 = 'https://i.imgur.com/I9HFAdi.jpeg';
+const img5 = 'https://i.imgur.com/vKyBuR1.png';
+const img6 = 'https://i.imgur.com/87LSqha.png';
+const img7 = 'https://i.imgur.com/DgkGahR.jpeg';
+const img8 = 'https://i.imgur.com/nDn0ixj.jpeg';
+const img9 = 'https://i.imgur.com/B5fOKdi.png';
+const img10 = 'https://i.imgur.com/06LtOnn.png';
 
 const nodes = [
   {
