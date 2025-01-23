@@ -15,6 +15,8 @@ This project features an interactive virtual tour of a **Digital Art** event hel
 - [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) for dependency management.
 
 ## Screenshots
-![Entrada](https://i.imgur.com/2o8A3Vv.jpeg)
-![Pasillo](https://i.imgur.com/o74TMI8.jpeg)
-![Sala](https://i.imgur.com/ZFOEptt.jpeg)
+![Pasillo](https://i.imgur.com/eszxIxK.png)
+![Sala](https://i.imgur.com/fymiXaY.png)
+
+## Project Link
+[Virtual Tour of the Digital Art Event](https://victorjesusreavalencia.github.io/expo-arte/)
